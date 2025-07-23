@@ -33,7 +33,7 @@ Bu proje, kullanıcıların uzun bağlantıları kısaltmalarını ve bu bağlan
 - Axios (API İstekleri)
 
 ---
-
+| ![login](docs/1.png) | | ![account](docs/2.png) |
 ## 📦 Kurulum Talimatları
 
 ### 1. Backend Kurulumu
